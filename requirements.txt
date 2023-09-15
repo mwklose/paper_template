@@ -1,0 +1,5 @@
+# Manuscript specific packages
+python-docx
+pyyaml
+
+# Code Specific Packages

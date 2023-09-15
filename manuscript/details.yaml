@@ -1,0 +1,38 @@
+title: "Revisiting the Population Attributable Fraction"
+authors: 
+  - Mark Klose:
+    email: mklose@unc.edu
+    institute: [uncepid]
+    funding: [R01]
+  - Paul Zivich:
+    email: pzivich@unc.edu # Fake email for now
+    institute: [uncepid, uncglobal]
+    funding: [R01, T32]
+
+institute: 
+- uncepid: "UNC Chapel Hill, Department of Epidemiology"
+
+funding: 
+- R01: R01AI157758
+- T32: T32-AI007001
+
+funding-message: "This work was supported in part by "
+
+date-started: 2023-09-15
+
+
+acknowledgements: """
+The authors would like to acknowledge...
+"""
+
+data-availability: """
+Data are available as part of the supplement in Lau B, Cole SR, Gange SJ. Competing Risk Regression Models for Epidemiologic Data. American Journal of Epidemiology. 2009;170(2):244–256.
+"""
+
+coi: """
+None reported.
+"""
+
+running-head: "Attributable Fractions"
+
+keywords: [Epidemiologic methods, population attributable fraction, random error, variance]
